@@ -22,9 +22,6 @@ I designed the schema, inserted sample data (120+ rows), and solved **30 busines
 - Who are repeat customers?  
 - Monthly order summary view for dashboards  
 
-## 📸 Screenshots
-(Add ER diagram + query result screenshots here)
-
 ## 🎯 What I Learned
 - Practiced **joins, aggregates, subqueries, window functions, views, and stored procedures**.  
 - Structured SQL projects for recruiters with clear documentation.  
